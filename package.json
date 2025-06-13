@@ -9,5 +9,5 @@
     "better-sqlite3": "^11.10.0",
     "nuxt": "^3.17.3"
   },
-  "packageManager": "npm@11.1.0"
+  "packageManager": "pnpm@10.12.1"
 }
